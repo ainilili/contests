@@ -4,4 +4,5 @@ project(contests)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(contests
-        p299/main.cpp)
+        p299/main.cpp
+        p2/main.cpp)
